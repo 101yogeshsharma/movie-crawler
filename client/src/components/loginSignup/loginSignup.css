@@ -1,0 +1,11 @@
+.login-main-div {
+    width: 70vw;
+    height: 70vh;
+    margin: 15vh 15vw 15vh 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0 0 7px gainsboro;
+    position: fixed;
+}
